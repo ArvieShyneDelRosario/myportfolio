@@ -1,0 +1,15 @@
+body{font-family: serif;
+background-color: grey;
+padding: 20px;
+line height: 1.6;}
+
+form{background-color: antiquewhite;
+padding: 50px;
+border border-radius: 50px;
+width: 100%;
+max-width: 600px;
+margin: auto 0:}
+
+label{display: block;
+margin: 10px 0 5px;
+font font-weight: bold;}
